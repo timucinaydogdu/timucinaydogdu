@@ -27,14 +27,8 @@
 <a href="https://unity.com/" target="_blank" rel=”noopener”> <img src="https://cdn.fs.brandfolder.com/cache=expiry:604800/YobItDpsQaUiujWPO6yw" alt="unity" width="110" height="63"/> </a>
   
 
-<h3 align="left">Basics :</h3>
-<p align="left">
+<h3 align="left">Basics : </h3>
+<p align="left"> 
 
-
-<h3 align="left">Projects :</h3>
-<p align="left">
-
-<h3 align="left">Tips :</h3>
-<p align="left">
-
-
+[Tips ](https://github.com/timucinaydogdu/gamedevelopment/blob/master/Tips.md)<br>
+[GameDeveloper Lecture](https://github.com/timucinaydogdu/gamedevelopment)<br>
