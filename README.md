@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timucinaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="timucinaydogdu" /> </p>
 
 
--  **Start Development Career at 03.09.2023**
+-  **Start Development Career at 03.10.2023**
 
 - 🔭 I’m currently working on **Self Learning at Remote.**
 
@@ -19,7 +19,8 @@
 - 💬 Ask me about **Ios and Python**
 
 - 📫 How to reach me **tim.aydogdu@gmail.com**
-<h3 align="left">Working Navigator Github Repos :</h3>
+
+<h3 align="left">Work Navigator Github Repos :</h3>
 
 the under construction
 -  [BootCamps]()
