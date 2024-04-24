@@ -16,8 +16,10 @@
 
 <h3 align="left">Work Navigator Github Repos :</h3>
 
+-  [Data And Data Types](https://github.com/timucinaydogdu/DataTypes/blob/main/DataTypes.md)
+-  
 the under construction
--  [Data Types]()
+
 -  [Statistic]()
 
 <h3 align="left">Connect with me:</h3>
