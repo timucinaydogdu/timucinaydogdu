@@ -22,9 +22,9 @@ the under construction
 
 -  [Statistic]()
 
-<img src="https://images.credly.com/size/340x340/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png">
+<img src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/explore-emerging-tech.png?raw=true">
 
-<img src="https://images.credly.com/size/340x340/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png">
+<img src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/working-in-a-digital-world-professional-skills.png?raw=true">
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/timucinaydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timucinaydogdu/" height="30" width="40" /></a><a href="https://instagram.com/timucin.aydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timucinaydogdu" height="30" width="40" /></a>
