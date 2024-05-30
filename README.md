@@ -17,16 +17,18 @@
 <h3 align="left">Work Navigator Github Repos :</h3>
 
 -  [Data And Data Types](https://github.com/timucinaydogdu/DataTypes/blob/main/DataTypes.md)
--  
-the under construction
 
--  [Statistic]()
+<h4 align="left">Under Construction :</h4>
 
-<img src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/explore-emerging-tech.png?raw=true">
+-  [Statistic](https://github.com/timucinaydogdu/Basics/blob/main/Statistics.md)
+-  [Algorthm](https://github.com/timucinaydogdu/Basics/blob/main/Algorithm.ipynb)
 
-<img src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/working-in-a-digital-world-professional-skills.png?raw=true">
+<h4 align="left">Skills :</h4>
+
+  <a><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/explore-emerging-tech.png?raw=true" alt="timucinaydogdu/" height="120" width="120" /></a><a ><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/working-in-a-digital-world-professional-skills.png?raw=true" alt="timucinaydogdu" height="120" width="120" /></a>
+
+
 <h3 align="left">Connect with me:</h3>
-
 <a href="https://linkedin.com/in/timucinaydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timucinaydogdu/" height="30" width="40" /></a><a href="https://instagram.com/timucin.aydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timucinaydogdu" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
