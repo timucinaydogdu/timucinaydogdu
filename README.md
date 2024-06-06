@@ -14,10 +14,15 @@
 
 - 📫 How to reach me **tim.aydogdu@gmail.com**
 
-<h3 align="left">Work Navigator Github Repos :</h3>
+<h3 align="left">Completed Projects :</h3>
+
+-  [Japanese Practice App](https://japanesetestter-d59406599b62.herokuapp.com/)
+
+
+<h4 align="left">Work Navigator Github Repos :</h4>
 
 -  [Data And Data Types](https://github.com/timucinaydogdu/DataTypes/blob/main/DataTypes.md)
-
+  
 <h4 align="left">Under Construction :</h4>
 
 -  [Statistic](https://github.com/timucinaydogdu/Basics/blob/main/Statistics.md)
