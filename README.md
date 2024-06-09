@@ -18,6 +18,10 @@
 
 -  [Japanese Practice App](https://japanesetestter-d59406599b62.herokuapp.com/)
 
+<h3 align="left">Learning Path :</h3>
+
+-  [System Setups](https://github.com/timucinaydogdu/Basics/blob/main/MacOsBasicComputerSetup.md)
+-  [Git & Terminal Commands](https://github.com/timucinaydogdu/Basics/blob/main/BasicGit%26TerminalCommands.md)
 
 <h4 align="left">Work Navigator Github Repos :</h4>
 
