@@ -34,7 +34,7 @@
 
 <h4 align="left">Skills :</h4>
 
-  <a><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/explore-emerging-tech.png?raw=true" alt="timucinaydogdu/" height="120" width="120" /></a><a ><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/working-in-a-digital-world-professional-skills.png?raw=true" alt="timucinaydogdu" height="120" width="120" /></a>
+  <a><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/explore-emerging-tech.png?raw=true" alt="timucinaydogdu/" height="120" width="120" /></a><a ><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/working-in-a-digital-world-professional-skills.png?raw=true" alt="timucinaydogdu" height="120" width="120" /></a><a ><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/cybersecurity-fundamentals.png?raw=true" alt="timucinaydogdu" height="120" width="120" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
