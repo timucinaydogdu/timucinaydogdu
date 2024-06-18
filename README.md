@@ -16,21 +16,25 @@
 
 <h3 align="left">Completed Projects :</h3>
 
--  [Japanese Practice App](https://japanesetestter-d59406599b62.herokuapp.com/)
+IT BASED -> [MACOS System Setups For Programmers](https://github.com/timucinaydogdu/Basics/blob/main/MacOsBasicComputerSetup.md)
+
+IT BASED -> [Git & Terminal Commands](https://github.com/timucinaydogdu/Basics/blob/main/BasicGit%26TerminalCommands.md)
+
+
+SOFTWARE BASED -> [Japanese Practice App](https://japanesetestter-d59406599b62.herokuapp.com/)
+
+
 
 <h3 align="left">Learning Path :</h3>
 
--  [MACOS System Setups For Programmers](https://github.com/timucinaydogdu/Basics/blob/main/MacOsBasicComputerSetup.md)
--  [Git & Terminal Commands](https://github.com/timucinaydogdu/Basics/blob/main/BasicGit%26TerminalCommands.md)
+##### Programin Language
+-  [Python Basics](https://github.com/timucinaydogdu/Basics/blob/main/PythonBasics.md)
+-  [R Basics](https://github.com/timucinaydogdu/Basics/blob/main/R_LanguageBasics.md)
+-  [Julia Basics](https://github.com/timucinaydogdu/Basics/blob/main/JuliaBasics.md)
 
-<h4 align="left">Work Navigator Github Repos :</h4>
+##### Methodology
+-  [Machine Learning Basics](https://github.com/timucinaydogdu/Basics/blob/main/MakineOgrenmesineGiris.md)
 
--  [Data And Data Types](https://github.com/timucinaydogdu/DataTypes/blob/main/DataTypes.md)
-  
-<h4 align="left">Under Construction :</h4>
-
--  [Statistic](https://github.com/timucinaydogdu/Basics/blob/main/Statistics.md)
--  [Algorthm](https://github.com/timucinaydogdu/Basics/blob/main/Algorithm.ipynb)
 
 <h4 align="left">Skills :</h4>
 
