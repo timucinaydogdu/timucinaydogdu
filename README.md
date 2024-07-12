@@ -18,6 +18,8 @@
 
 IT BASED -> [MACOS System Setups For Programmers](https://github.com/timucinaydogdu/Basics/blob/main/MacOsBasicComputerSetup.md)
 
+SOFTWARE BASED -> [XCode Development Basics And Notes](https://github.com/timucinaydogdu/Basics/blob/main/XcodeIosDevelopment.md)
+
 IT BASED -> [Git & Terminal Commands](https://github.com/timucinaydogdu/Basics/blob/main/BasicGit%26TerminalCommands.md)
 
 
