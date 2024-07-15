@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Self Learning at Remote.**
 
-- 🌱 I’m currently learning **Data Analyz and Statistic**
+- 🌱 I’m currently learning **Data Analyz, Statistic And XCode**
 
 - 💬 Ask me about **Tech Support And Python**
 
@@ -20,12 +20,10 @@ IT BASED -> [MACOS System Setups For Programmers](https://github.com/timucinaydo
 
 SOFTWARE BASED -> [XCode Development Basics And Notes](https://github.com/timucinaydogdu/Basics/blob/main/XcodeIosDevelopment.md)
 
+  <a><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/HeroCatalog.gif?raw=true" alt="timucinaydogdu/" height="250" width="120" /></a><br>
+  SOFTWARE BASED -> [Super Hero Katalog](https://github.com/timucinaydogdu/Projects/tree/main/SuperKahramanListSwiftUI)
+
 IT BASED -> [Git & Terminal Commands](https://github.com/timucinaydogdu/Basics/blob/main/BasicGit%26TerminalCommands.md)
-
-
-SOFTWARE BASED -> [Japanese Practice App](https://japanesetestter-d59406599b62.herokuapp.com/)
-
-
 
 <h3 align="left">Learning Path :</h3>
 
