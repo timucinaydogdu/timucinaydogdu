@@ -16,14 +16,15 @@
 
 <h3 align="left">Completed Projects :</h3>
 
-IT BASED -> [MACOS System Setups For Programmers](https://github.com/timucinaydogdu/Basics/blob/main/MacOsBasicComputerSetup.md)
+  <a><img  src="https://developer.apple.com/macos/images/lockup-hero-large_2x.png" alt="timucinaydogdu/" height="40" width="60" /> </a><font style="font-size: 14pt"><b>&emsp;[MACOS System Setups For Programmers](https://github.com/timucinaydogdu/Basics/blob/main/MacOsBasicComputerSetup.md) </b> </font><br>
 
-SOFTWARE BASED -> [XCode Development Basics And Notes](https://github.com/timucinaydogdu/Basics/blob/main/XcodeIosDevelopment.md)
+  <a><img  src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Xcode_14_icon.png/120px-Xcode_14_icon.png" alt="timucinaydogdu/" height="50" width="50" /></a><font style="font-size: 14pt"><b>&emsp;&emsp;[XCode Development Basics And Notes](https://github.com/timucinaydogdu/Basics/blob/main/XcodeIosDevelopment.md)</b></font><br>
 
-  <a><img  src="https://github.com/timucinaydogdu/Basics/blob/main/Assets/HeroCatalog.gif?raw=true" alt="timucinaydogdu/" height="250" width="120" /></a><br>
-  SOFTWARE BASED -> [Super Hero Katalog](https://github.com/timucinaydogdu/Projects/tree/main/SuperKahramanListSwiftUI)
+ <a><img  src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="timucinaydogdu/" height="50" width="50"/></a><font style="font-size: 14pt"><b>&emsp;&emsp;[Swift Development Basics And Notes](https://github.com/timucinaydogdu/Basics/blob/main/SwiftBasicsDevelopment.md)</b></font><br>
 
-IT BASED -> [Git & Terminal Commands](https://github.com/timucinaydogdu/Basics/blob/main/BasicGit%26TerminalCommands.md)
+<img src="https://github.com/timucinaydogdu/Basics/raw/main/Assets/HeroCatalog.gif?raw=true" >
+
+SOFTWARE BASED -> <font style="font-size: 12pt">[Super Hero Katalog](https://github.com/timucinaydogdu/Projects/tree/main/SuperKahramanListSwiftUI)</font>
 
 <h3 align="left">Learning Path :</h3>
 
