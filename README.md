@@ -22,6 +22,8 @@
 
 <font style="font-size: 14pt"><b>&emsp;[Mac OS System Setups For Programmers](https://github.com/timucinaydogdu/ProgrammerBasics/blob/main/MacOsBasicComputerSetup.md) </b> </font><br>
 
+<font style="font-size: 14pt"><b>&emsp;[(-WebSite-)Japanesse Tester - FirstBoot have 50 second delay.](https://japanessetester-github-io.onrender.com) </b> </font><br>
+
 <h3 align="left">Learning Path :</h3>
 
 ##### Programin Language
@@ -34,12 +36,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/timucinaydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timucinaydogdu/" height="30" width="40" /></a><a href="https://instagram.com/timucin.aydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timucinaydogdu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/timucinaydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timucinaydogdu/" height="30" width="40" /></a><a href="https://www.instagram.com/tok.timu" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timucinaydogdu" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw"  width="40" height="40"/></a>
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/home/language-markdown.png" a width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source"  width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg"  width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/230px-Kotlin_logo_2021.svg.png"  width="230" height="40"/> </a>
 
