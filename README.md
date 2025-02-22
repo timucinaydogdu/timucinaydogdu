@@ -18,7 +18,9 @@
 
 <h3 align="left">Completed Projects :</h3>
 
-  <font style="font-size: 14pt"><b>&emsp;[MACOS System Setups For Programmers](https://github.com/timucinaydogdu/Basics/blob/main/MacOsBasicComputerSetup.md) </b> </font><br>
+<font style="font-size: 14pt"><b>&emsp;[Basic Git & Terminal Commands](https://github.com/timucinaydogdu/ProgrammerBasics/blob/main/BasicGit%26TerminalCommands.md) </b> </font><br>
+
+<font style="font-size: 14pt"><b>&emsp;[Mac OS System Setups For Programmers](https://github.com/timucinaydogdu/ProgrammerBasics/blob/main/MacOsBasicComputerSetup.md) </b> </font><br>
 
 <h3 align="left">Learning Path :</h3>
 
