@@ -6,13 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timucinaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="timucinaydogdu" /> </p>
 
 
--  **Start Development Career at 15.02.2025**
 
 - 🔭 I’m currently working on **Self Learning at Remote.**
 
-- 🌱 I’m currently learning **Android Developer - KOTLIN**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Tech Support And KOTLIN Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **tim.aydogdu@gmail.com**
 
@@ -44,6 +43,5 @@
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/home/language-markdown.png" a width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source"  width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg"  width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/230px-Kotlin_logo_2021.svg.png"  width="230" height="40"/> </a>
 
 
