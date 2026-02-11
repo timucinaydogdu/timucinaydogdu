@@ -26,7 +26,7 @@
 <h3 align="left">Learning Path :</h3>
 
 ##### Programin Language
--  [Programming Basics ](https://github.com/timucinaydogdu/Basics/blob/main/PythonBasics.md)
+-  [Programming Basics ](https://github.com/timucinaydogdu/ProgrammerBasics/blob/main/PythonProjects/PythonBasicsFullEducation.ipynb)
 
 
 <h4 align="left">Skills :</h4>
