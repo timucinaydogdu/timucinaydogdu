@@ -34,8 +34,10 @@
 ---
 
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=timucinaydogdu&color=blue&style=flat-square)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=timucinaydogdu&show_icons=true&theme=dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=timucinaydogdu&theme=dark&hide_border=true)
 
 ## 📬 Contact
 
