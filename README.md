@@ -1,47 +1,39 @@
-<h1 align="center">Hi 👋, I'm Timucin</h1>
+## Hi, I'm Timuçin 👋
 
-![](Assests/ProgrammerGif.gif)
+🌏 Based in **Tokyo, Japan**
+🔌 Learning **IoT & Embedded Systems**
+🐍 Python · C/C++ · MQTT · Linux
+📡 Building toward: sensor networks, edge computing, cloud IoT
 
-<h3 align="center">A passionate developer from Turkey.</h3
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timucinaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="timucinaydogdu" /> </p>
+---
 
+## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on **Self Learning at Remote.**
+---
 
-- 🌱 I’m currently learning **Machine Learning**
+## 📚 Learning Path
 
-- 💬 Ask me about **Python**
+| Layer | Topic | Status |
+|-------|-------|--------|
+| Foundation | Linux · Git · Shell | 🟡 In Progress |
+| Hardware | Arduino · ESP32 · RPi | ⬜ Upcoming |
+| Connectivity | MQTT · HTTP · BLE | ⬜ Upcoming |
+| Data | InfluxDB · Pipelines | ⬜ Upcoming |
+| Cloud | AWS IoT Core · Dashboard | ⬜ Upcoming |
+| Capstone | Smart Home System | ⬜ Upcoming |
 
-- 📫 How to reach me **tim.aydogdu@gmail.com**
+---
 
-<h3 align="left">Completed Projects :</h3>
+## 📬 Contact
 
-<font style="font-size: 14pt"><b>&emsp;[Basic Git & Terminal Commands](https://github.com/timucinaydogdu/ProgrammerBasics/blob/main/BasicGit%26TerminalCommands.md) </b> </font><br>
-
-<font style="font-size: 14pt"><b>&emsp;[Mac OS System Setups For Programmers](https://github.com/timucinaydogdu/ProgrammerBasics/blob/main/MacOsBasicComputerSetup.md) </b> </font><br>
-
-<font style="font-size: 14pt"><b>&emsp;[(-WebSite-)Japanesse Tester - FirstBoot have 50 second delay.](https://japanessetester-github-io.onrender.com) </b> </font><br>
-
-<h3 align="left">Learning Path :</h3>
-
-##### Programin Language
--  [Programming Basics ](https://github.com/timucinaydogdu/ProgrammerBasics/blob/main/PythonProjects/PythonBasicsFullEducation.ipynb)
-
-
-<h4 align="left">Skills :</h4>
-
-  <a><img  src="Assests/explore-emerging-tech.png" alt="timucinaydogdu/" height="120" width="120" /></a><a ><img  src="Assests/working-in-a-digital-world-professional-skills.png" alt="timucinaydogdu" height="120" width="120" /></a><a ><img  src="Assests/cybersecurity-fundamentals.png" alt="timucinaydogdu" height="120" width="120" /></a>
-
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/timucinaydogdu/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timucinaydogdu/" height="30" width="40" /></a><a href="https://www.instagram.com/tok.timu" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timucinaydogdu" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw"  width="40" height="40"/></a>
-<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/home/language-markdown.png" a width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source"  width="40" height="40"/> </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg"  width="40" height="40"/> </a>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timucinaydogdu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tim.aydogdu@gmail.com)
