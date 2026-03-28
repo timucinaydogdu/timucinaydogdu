@@ -33,6 +33,10 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=timucinaydogdu&show_icons=true&theme=dark&hide_border=true)
+
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timucinaydogdu/)
