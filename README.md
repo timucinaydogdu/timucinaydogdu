@@ -24,8 +24,8 @@
 
 | Layer | Topic | Status |
 |-------|-------|--------|
-| Foundation | Linux · Git · Shell | 🟡 In Progress |
-| Hardware | Arduino · ESP32 · RPi | ⬜ Upcoming |
+| Foundation | Linux · Git · Shell | 🟢 Done |
+| Hardware | Arduino · ESP32 · RPi | 🟡 In Progress |
 | Connectivity | MQTT · HTTP · BLE | ⬜ Upcoming |
 | Data | InfluxDB · Pipelines | ⬜ Upcoming |
 | Cloud | AWS IoT Core · Dashboard | ⬜ Upcoming |
