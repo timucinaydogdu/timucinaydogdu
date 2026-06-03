@@ -36,8 +36,7 @@
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=timucinaydogdu&color=blue&style=flat-square)
 
-
-![Streak](https://streak-stats.demolab.com?user=timucinaydogdu&theme=dark&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=timucinaydogdu&theme=dark&hide_border=true)
 
 ## 📬 Contact
 
