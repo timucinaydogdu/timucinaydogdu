@@ -4,10 +4,11 @@
 
 **Data Center Systems & Infrastructure · Networking · Linux · Automation · Audit**
 
-Adana in Türkiye
+Adana, Türkiye
 
 ![Networking](https://img.shields.io/badge/Networking-1f2937?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat-square&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-1f2937?style=flat-square&logo=apple&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/Virtualization-1f2937?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1f2937?style=flat-square&logo=ansible&logoColor=white)
@@ -24,11 +25,36 @@ I am building a career in **data center systems administration and infrastructur
 
 I learn by building: home labs, written runbooks, and documented evidence for every exercise. My long-term aim is to install, manage and monitor data center servers, then audit operations against international standards such as **ISO/IEC 27001**, **ANSI/TIA-942** and the **Uptime Institute Tier** framework.
 
+## Currently
+
+- **Phase F1, Networking** (Cisco CCNA track): working through the fundamentals module by module, with a hands-on lab report for every topic.
+- Latest published module: **A5, OSI and TCP/IP models**. Binary and IPv4, subnetting, VLSM, IPv6 and routing basics are next.
+- Next up: switching and VLANs, DNS/DHCP/NAT, ACLs.
+
+## Featured project: [NetworkEngineering](https://github.com/timucinaydogdu/NetworkEngineering)
+
+A structured learning repository for **network and data center engineering**: concise study notes, each followed by a lab report run on macOS with the real command and its (redacted) output. It is designed to grow with my roadmap, from networking into server systems, virtualization, network security, monitoring and automation.
+
+| Module | Topic | Status |
+|---|---|---|
+| [A1](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A1_NetworkBasics.md) | Network basics: client/server, IP, MAC, port, socket, protocol, packet, frame | Published |
+| [A2](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A2_NetworkTypes.md) | Network types and measures: bandwidth, latency, throughput, LAN/WAN/SAN/VPN | Published |
+| [A3](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A3_CableAndDevices.md) | Cables and devices: copper, DAC, fiber, hub, switch, router, access point | Published |
+| [A4](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A4_ProtocolsAndPorts.md) | Protocols, ports, TCP/UDP and ARP | Published |
+| [A5](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A5_TCP-IP-AndOSI_Models.md) | OSI and TCP/IP models, encapsulation, layer-by-layer troubleshooting | Published |
+| A6 | Binary system and IPv4 | In progress |
+| A7 | Subnetting calculations | In progress |
+| A8 | VLSM | In progress |
+| A9 | IPv6 | In progress |
+| A10 | Routing basics | In progress |
+
+All lab commands are collected in [`LabCodes.md`](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/LabCodes.md) (`ifconfig`, `arp`, `ping`, `traceroute`, `nc`, `dig`, `curl`, `tcpdump`, `netstat`).
+
 ## Focus areas
 
 | Area | What I work on |
 |---|---|
-| **Networking** | VLANs, routing, DHCP/DNS, ACLs, packet analysis with Wireshark |
+| **Networking** | Addressing and subnetting, VLANs, routing, DHCP/DNS, ACLs, packet analysis with Wireshark and tcpdump |
 | **Servers** | Linux administration (RHEL family), Windows Server, hardware and lifecycle |
 | **Virtualization & storage** | Hypervisors, clustering, backup, restore testing, disaster recovery |
 | **Operations & automation** | Monitoring (Prometheus, Grafana), Python, Ansible, SOP/MOP/EOP |
@@ -40,7 +66,7 @@ I learn by building: home labs, written runbooks, and documented evidence for ev
 | Phase | Focus | Target | Status |
 |---|---|---|---|
 | Foundation | Linux CLI, Git, shell scripting | n/a | Done |
-| F1 | Networking | Cisco CCNA | Focused |
+| F1 | Networking | Cisco CCNA | In progress |
 | F2 | Linux administration | Red Hat RHCSA | Planned |
 | F3 | Windows Server, server hardware | Microsoft Windows Server | Planned |
 | F4 | Virtualization, storage, backup/DR | VMware VCP or Proxmox lab portfolio | Planned |
@@ -48,17 +74,15 @@ I learn by building: home labs, written runbooks, and documented evidence for ev
 | F6 | Audit fundamentals | ISO/IEC 27001 Lead Auditor | Planned |
 | F7 | Data center standards | TIA-942, Uptime ATS | Planned |
 
-## Projects
+## Repositories
 
-**Current repositories**
-
+- [`NetworkEngineering`](https://github.com/timucinaydogdu/NetworkEngineering): networking notes and macOS lab reports, growing toward servers, virtualization, security, monitoring and automation
 - [`linux-embedded`](https://github.com/timucinaydogdu/linux-embedded): Linux, terminal, shell scripting and environment setup
 - [`cs-fundamentals`](https://github.com/timucinaydogdu/cs-fundamentals): Python notes, code examples and programming fundamentals
 - [`arduino-projects`](https://github.com/timucinaydogdu/arduino-projects): sensors, actuators and IoT components in C/C++
 
 **In preparation** (published as each lab phase is completed)
 
-- `network-lab-portfolio`: VLAN, routing and ACL labs with topology diagrams and packet-capture case studies
 - `linux-server-hardening`: server build, hardening checklist and runbooks
 - `monitoring-stack`: Prometheus and Grafana with alert rules
 - `datacenter-automation`: Python and Ansible inventory and configuration-drift checks
@@ -75,3 +99,5 @@ Embedded and IoT fundamentals (Arduino, Raspberry Pi, MQTT) give me a hands-on v
 Turkish (native) · English (technical, improving daily) · Japanese (learning)
 
 ---
+
+<sub>All repositories are built in personal labs with fictional data. They contain no employer or customer information.</sub>
