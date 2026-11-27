@@ -25,12 +25,6 @@ I am building a career in **data center systems administration and infrastructur
 
 I learn by building: home labs, written runbooks, and documented evidence for every exercise. My long-term aim is to install, manage and monitor data center servers, then audit operations against international standards such as **ISO/IEC 27001**, **ANSI/TIA-942** and the **Uptime Institute Tier** framework.
 
-## Currently
-
-- **Phase F1, Networking** (Cisco CCNA track): working through the fundamentals module by module, with a hands-on lab report for every topic.
-- Latest published module: **A5, OSI and TCP/IP models**. Binary and IPv4, subnetting, VLSM, IPv6 and routing basics are next.
-- Next up: switching and VLANs, DNS/DHCP/NAT, ACLs.
-
 ## Featured project: [NetworkEngineering](https://github.com/timucinaydogdu/NetworkEngineering)
 
 A structured learning repository for **network and data center engineering**: concise study notes, each followed by a lab report run on macOS with the real command and its (redacted) output. It is designed to grow with my roadmap, from networking into server systems, virtualization, network security, monitoring and automation.
@@ -42,7 +36,7 @@ A structured learning repository for **network and data center engineering**: co
 | [A3](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A3_CableAndDevices.md) | Cables and devices: copper, DAC, fiber, hub, switch, router, access point | Published |
 | [A4](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A4_ProtocolsAndPorts.md) | Protocols, ports, TCP/UDP and ARP | Published |
 | [A5](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A5_TCP-IP-AndOSI_Models.md) | OSI and TCP/IP models, encapsulation, layer-by-layer troubleshooting | Published |
-| A6 | Binary system and IPv4 | In progress |
+| [A6](https://github.com/timucinaydogdu/NetworkEngineering/blob/main/A_NetworkEngineeringBasics/A6_BinarySystemAndIPv4.md) | Binary system and IPv4 | Published |
 | A7 | Subnetting calculations | In progress |
 | A8 | VLSM | In progress |
 | A9 | IPv6 | In progress |
